@@ -17,4 +17,13 @@ entries:
     urls:
     - https://github.com/ivorsmorenburg/helm-charts/releases/download/springboot-demoweb-0.1.0/springboot-demoweb-0.1.0.tgz
     version: 0.1.0
-generated: "2022-10-09T17:01:04.354638545Z"
+  springboot-helloworld:
+  - apiVersion: v1
+    created: "2022-10-09T17:09:08.793748268Z"
+    description: A Helm chart for Kubernetes to Deploy a Spring Boot Application
+    digest: 2e53397ce672ed0829215688694858b07453cb9ee87249ff1cb7d4c6d6c10733
+    name: springboot-helloworld
+    urls:
+    - https://github.com/ivorsmorenburg/helm-charts/releases/download/springboot-helloworld-1.0.0/springboot-helloworld-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-10-09T17:09:08.793757268Z"
